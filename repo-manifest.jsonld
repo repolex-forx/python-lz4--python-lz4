@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/python-lz4/python-lz4/commit/029f36597b8d182484f3c38c6be6a71ad07ddc96",
       "git:hexsha": "029f36597b8d182484f3c38c6be6a71ad07ddc96",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T02:50:00.050059+00:00"
     },
     {
       "@id": "https://repolex.ai/r/python-lz4/python-lz4/commit/877b01d3a8147dee5ce42528fa294b6506cf42f1",
